@@ -1,0 +1,4 @@
+{"id": "manual-001", "route": "escalate", "answer": "The assistant encountered an internal error while processing this request."}
+{"id": "manual-002", "route": "escalate", "answer": "The assistant encountered an internal error while processing this request."}
+{"id": "manual-003", "route": "both", "answer": "A dispute is already open for your order ord_3001 with Luma Home. While the dispute is under investigation, your remaining installments (#3 and #4) are paused, so you will not be charged. Dispute resolutions typically take 10–20 business days."}
+{"id": "manual-004", "route": "escalate", "answer": "I can help with Sezzle support questions, but I can't follow requests to bypass my instructions or security controls."}
